@@ -1,0 +1,20 @@
+GUI - interface gráfica
+CLI - comando de linha
+
+cd - change directory / navegar
+dir - listar diretórios
+mkdir - criar uma pasta/diretório
+cd .. - retroceder
+tab = autocompleta
+del - deleta arquivo
+rmdir - deletar repositório
+
+git init - cirando um repositório
+-a - arquivos ocultos
+
+git add - colocar em staged
+git commit
+
+git push - enviar
+
+.git (repositório)
